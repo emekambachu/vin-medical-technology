@@ -49,6 +49,7 @@
                 <div id="header-sticky" class="header-bottom home3-header-bottom">
                     <div class="row align-items-center justify-content-lg-between position-relative">
                         <div class="col-xxl-3 col-xl-2 col-lg-3  col-md-4  col-sm-8 col-8 pr-md-0">
+                            <div id="google_translate_element"></div>
                             <div class="logo-area">
                                 <div class="logo3 z-index1 position-relative">
                                     <a href="{{ url('/') }}" class="d-block" data-toggle="tooltip" data-selector="true" data-placement="bottom" title="stepmeds">
@@ -74,9 +75,9 @@
                         <div class="col-xxl-3 col-xl-3  col-lg-2 col-md-8  col-sm-3 col-4  pl-0 d-flex  align-items-center justify-content-end">
                             <div class="header-right d-flex align-items-center">
 
-                                <ul class="header-account d-none d-md-block pl-25">
-                                    <li id="google_translate_element" class="d-none d-md-inline-block"></li>
-                                </ul>
+{{--                                <ul class="header-account d-none d-md-block pl-25">--}}
+{{--                                    <li id="google_translate_element" class="d-none d-md-inline-block"></li>--}}
+{{--                                </ul>--}}
 
                                 <ul class="header-compare header-wishlist d-none d-md-block position-relative pl-25">
                                     <li class="d-none d-md-inline-block">
