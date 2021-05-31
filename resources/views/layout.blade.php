@@ -136,8 +136,7 @@
     <div class="mobile-menu mt-10"></div>
     <div class="menu-login pt-10 d-block d-md-none">
         <ul class="header-login d-flex justify-content-between mobile-border-b ">
-            <li><a href="">My Account</a></li>
-            <li><a href=""><i class="far fa-user-circle"></i></a></li>
+            <li id="google_translate_element" class="d-none d-md-inline-block"></li>
         </ul>
         <ul class="header-heart d-flex justify-content-between mobile-border-b">
             <li><a href="">Wishlist</a></li>
