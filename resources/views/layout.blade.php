@@ -134,14 +134,8 @@
     </div>
 
     <div class="mobile-menu mt-10"></div>
-    <div class="menu-login pt-10 d-block d-md-none">
-        <ul class="header-login d-flex justify-content-between mobile-border-b ">
-            <li id="google_translate_element"></li>
-        </ul>
-        <ul class="header-heart d-flex justify-content-between mobile-border-b">
-            <li><a href="">Wishlist</a></li>
-            <li><a href=""><span class="icon-heart"></span></a></li>
-        </ul>
+    <div id="google_translate_element"
+         class="menu-login pt-10 d-block d-md-none">
     </div><!-- /header-right -->
 
 
