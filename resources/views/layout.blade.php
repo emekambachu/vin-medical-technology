@@ -134,8 +134,7 @@
     </div>
 
     <div class="mobile-menu mt-10"></div>
-    <div id="google_translate_element"
-         class="menu-login pt-10 d-block d-md-none">
+    <div id="google_translate_element">
     </div><!-- /header-right -->
 
 
