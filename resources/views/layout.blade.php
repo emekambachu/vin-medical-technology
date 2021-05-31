@@ -73,12 +73,11 @@
 
                         <div class="col-xxl-3 col-xl-3  col-lg-2 col-md-8  col-sm-3 col-4  pl-0 d-flex  align-items-center justify-content-end">
                             <div class="header-right d-flex align-items-center">
+
                                 <ul class="header-account d-none d-md-block pl-25">
-                                    <li class="d-none d-md-inline-block">
-                                        <a href="" data-toggle="tooltip" data-selector="true" data-placement="bottom" title="My Account"><span><i class="far fa-user-circle"></i></span>
-                                        </a>
-                                    </li>
+                                    <li id="google_translate_element" class="d-none d-md-inline-block"></li>
                                 </ul>
+
                                 <ul class="header-compare header-wishlist d-none d-md-block position-relative pl-25">
                                     <li class="d-none d-md-inline-block">
                                         <a href="" data-toggle="tooltip" data-selector="true" data-placement="bottom" title="Compare"><span><i class="fal fa-random"></i></span>
@@ -359,6 +358,27 @@
 <script src="{{ asset('js/countdown.min.js') }}"></script>
 <script src="{{ asset('js/main.js') }}"></script>
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/60b46ee4de99a4282a1a75fc/1f70d2c87';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
+
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 </body>
 
