@@ -204,8 +204,7 @@
                     <div class="col-xxl-3 col-xl-3  col-lg-3  col-md-4  col-sm-6 col-12 footer-r-border">
                         <div class="footer-widget f-adress pb-90 pt-80 pr-100">
                             <img src="{{ asset('vin_medical_logo.png') }}" alt="">
-                            <p class="pt-18 font13 text-uppercase mt-25">PO Box 16122 Collins Street
-                                Victoria 8007 Australia</p>
+                            <p class="pt-18 font13 text-uppercase mt-25">405 Lan Street New York City USA.</p>
                             <div class="f-adress-text mt-25">
                                 <ul class="footer-address">
                                     <li>
