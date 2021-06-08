@@ -30,12 +30,12 @@
                                 <li>
                                     <span class="h2-theme-color d-block mr-15"><i class="fal fa-headset"></i></span>
                                 </li>
-                                <li>
-                                    <p class="mb-1">Hotline Free 24/24:</p>
-                                    <a href="tell:+01500123994" class="light-black-color2 font600">
-                                        +01 500 123 994
-                                    </a>
-                                </li>
+{{--                                <li>--}}
+{{--                                    <p class="mb-1">Hotline Free 24/24:</p>--}}
+{{--                                    <a href="tell:+01500123994" class="light-black-color2 font600">--}}
+{{--                                        +01 500 123 994--}}
+{{--                                    </a>--}}
+{{--                                </li>--}}
                             </ul>
                         </div><!-- /section-title -->
                         <div class="c-contact d-sm-flex">

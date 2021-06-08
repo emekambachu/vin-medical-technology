@@ -207,10 +207,10 @@
                             <p class="pt-18 font13 text-uppercase mt-25">405 Lan Street New York City USA.</p>
                             <div class="f-adress-text mt-25">
                                 <ul class="footer-address">
-                                    <li>
-                                        <a class="footer-phone text-white mb-0" href="tel:+61480050668">
-                                            +61480050668</a>
-                                    </li>
+{{--                                    <li>--}}
+{{--                                        <a class="footer-phone text-white mb-0" href="tel:+61480050668">--}}
+{{--                                            +61480050668</a>--}}
+{{--                                    </li>--}}
                                     <li class="footer-mail pt-10">
                                         <a href="#" class="text-white font14">info@vinmedicaltechnology.com</a>
                                     </li>
