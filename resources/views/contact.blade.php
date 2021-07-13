@@ -40,7 +40,7 @@
                         </div><!-- /section-title -->
                         <div class="c-contact d-sm-flex">
                             <span class="primary-color pr-1">Address: </span>
-                            <p>405 Lan Street New York City USA.</p>
+                            <p>410 Lan Street New York City USA.</p>
                         </div>
                         <div class="c-email d-sm-flex">
                             <span class="primary-color pr-1">Email: </span>
