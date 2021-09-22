@@ -48,7 +48,7 @@
                         </div>
                         <div class="c-number d-sm-flex">
                             <span class="primary-color pr-1">Number Phone: </span>
-                            <p>+61480048458</p>
+                            <p>+1(631)2684855</p>
                         </div>
                     </div>
                 </div><!-- /col -->

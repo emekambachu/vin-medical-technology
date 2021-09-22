@@ -668,7 +668,7 @@
                     <div class="subscribe-wrapper subscribe-wrapper3 wow fadeInRight animated" data-wow-duration="1.5s">
                         <div class="section-title mb-25">
                             <h3 class="font-pt light-black-color2 mb-20" style="color: #3DBEBD;">Interested in our products?</h3>
-                            <p class="light-black-color7 font300"><strong>Call: +61480048458</strong></p>
+                            <p class="light-black-color7 font300"><strong>Call: +1(631)2684855</strong></p>
                             <a data-animation="fadeInUp" data-delay="1.7s" href="{{ url('contact') }}" class="web-btn h3-web-btn  d-inline-block text-uppercase white h3-theme-bg position-relative over-hidden pl-30 pr-30 ptb-17 shop-collection-btn">
                                 More about us</a>
                         </div><!-- /section-title -->
