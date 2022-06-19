@@ -33,17 +33,15 @@
                             </ul>
                         </div><!-- /section-title -->
                         <div class="c-contact d-sm-flex">
-                            <span class="primary-color pr-1">Head Office:</span>
-                            <p>410 Lan Street New York City USA</p>
-                            <p>+16312684855</p>
+                            <strong class="primary-color pr-1">Head Office: </strong>
+                            <p> 410 Lan Street New York City USA, <br> +16312684855</p>
                         </div>
                         <div class="c-contact d-sm-flex">
-                            <span class="primary-color pr-1">Branch Office:</span>
-                            <p>P O Box 16122 Collins Street Victoria 8007 Australia.</p>
-                            <p>+61485827455</p>
+                            <strong class="primary-color pr-1">Branch Office: </strong>
+                            <p>P O Box 16122 Collins Street Victoria 8007 Australia, <br>+61485827455</p>
                         </div>
                         <div class="c-email d-sm-flex">
-                            <span class="primary-color pr-1">Email: </span>
+                            <p class="primary-color pr-1">Email: </p>
                             <p>info@vinmedicaltechnology.com</p>
                         </div>
                     </div>

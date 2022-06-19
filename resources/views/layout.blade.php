@@ -207,18 +207,18 @@
                     <div class="col-xxl-3 col-xl-3  col-lg-3  col-md-4  col-sm-6 col-12 footer-r-border">
                         <div class="footer-widget f-adress pb-90 pt-80 pr-100">
                             <img src="{{ asset('vin_medical_logo.png') }}" alt="">
-                            <p class="pt-18 font13 text-uppercase mt-25">410 Lan Street New York City USA.</p>
-                            <div class="f-adress-text mt-25">
-                                <ul class="footer-address">
-{{--                                    <li>--}}
-{{--                                        <a class="footer-phone text-white mb-0" href="tel:+61480050668">--}}
-{{--                                            +61480050668</a>--}}
-{{--                                    </li>--}}
-                                    <li class="footer-mail pt-10">
-                                        <a href="#" class="text-white font14">info@vinmedicaltechnology.com</a>
-                                    </li>
-                                </ul>
-                            </div>
+                            <p class="pt-18 font13 text-uppercase mt-25"><strong>Head office:</strong><br>
+                                410 Lan Street New York City, USA. <br>
+                                +16312684855
+                            </p>
+                            <p class="pt-18 font13 text-uppercase mt-25"><strong>Branch office:</strong><br>
+                                P O Box 16122 Collins Street Victoria 8007, Australia. <br>
+                                +61485827455
+                            </p>
+                            <p class="pt-18 font13 text-uppercase mt-25"><strong>Email: </strong><br>
+                                info@vinmedicaltechnology.com
+                            </p>
+
                         </div>
                     </div><!-- /col -->
                     <div class="col-xxl-6 col-xl-6  col-lg-6  col-md-8  col-sm-12 col-12 d-sm-flex justify-content-lg-center footer-r-border">
