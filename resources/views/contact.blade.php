@@ -30,25 +30,21 @@
                                 <li>
                                     <span class="h2-theme-color d-block mr-15"><i class="fal fa-headset"></i></span>
                                 </li>
-{{--                                <li>--}}
-{{--                                    <p class="mb-1">Hotline Free 24/24:</p>--}}
-{{--                                    <a href="tell:+01500123994" class="light-black-color2 font600">--}}
-{{--                                        +01 500 123 994--}}
-{{--                                    </a>--}}
-{{--                                </li>--}}
                             </ul>
                         </div><!-- /section-title -->
                         <div class="c-contact d-sm-flex">
-                            <span class="primary-color pr-1">Address: </span>
-                            <p>410 Lan Street New York City USA.</p>
+                            <span class="primary-color pr-1">Head Office:</span>
+                            <p>410 Lan Street New York City USA</p>
+                            <p>+16312684855</p>
+                        </div>
+                        <div class="c-contact d-sm-flex">
+                            <span class="primary-color pr-1">Branch Office:</span>
+                            <p>P O Box 16122 Collins Street Victoria 8007 Australia.</p>
+                            <p>+61485827455</p>
                         </div>
                         <div class="c-email d-sm-flex">
                             <span class="primary-color pr-1">Email: </span>
                             <p>info@vinmedicaltechnology.com</p>
-                        </div>
-                        <div class="c-number d-sm-flex">
-                            <span class="primary-color pr-1">Number Phone: </span>
-                            <p>+1(631)2684855</p>
                         </div>
                     </div>
                 </div><!-- /col -->

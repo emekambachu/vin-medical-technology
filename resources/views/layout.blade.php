@@ -143,17 +143,20 @@
     <ul class="contact-add mt-20">
         <li class="mb-15 primary-color">
             <span class="pr-1"><i class="fas fa-map-marker-alt"></i></span>
-            PO Box 16122 Collins Street Victoria 8007 Australia
+            Head office: 410 Lan Street New York City, USA.<br>
+            Call: +16312684855
+        </li>
+        <li class="mb-15 primary-color">
+            <span class="pr-1"><i class="fas fa-map-marker-alt"></i></span>
+            Branch office: P O Box 16122 Collins Street Victoria 8007, Australia.<br>
+            Call: +61485827455
         </li>
         <li class="mb-20 primary-color">
             <span class="pr-1"><i class="far fa-envelope"></i></span>
             info@vinmedicaltechnology.com
         </li>
-        <li class="mb-15">
-            <a class=" primary-color" href="tel:+61480050668">
-                <span class="pr-1"><i class="fas fa-phone"></i></span> +61480050668</a>
-        </li>
     </ul>
+
     <ul class="social-link pt-2 mb-150">
         <li class="d-inline-block">
             <a class="active primary-color-center pr-0 d-inline-block transition-3" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -177,7 +180,7 @@
     <div class="header-search-content mt-100 ml-130 mr-130">
         <h3 class="">Search in:</h3>
         <ul class="d-flex justify-content-center mt-25">
-            <li><a class="active" href="shop.html">All categories</a></li>
+            <li><a class="active" href="">All categories</a></li>
             <li><a href="">Clothing</a></li>
             <li><a href="">Electronics</a></li>
             <li><a href="">Home Accessories</a></li>
